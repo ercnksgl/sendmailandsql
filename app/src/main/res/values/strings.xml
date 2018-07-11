@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmailProject</string>
+    <string name="action_setting">başlık</string>
+    <string name="appbar_scrolling_view_behavior">deneme</string>
+</resources>
